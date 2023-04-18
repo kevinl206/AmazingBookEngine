@@ -17,8 +17,8 @@
 - First thing, first. Clone the repo.
 - Then Download and install "npm install" or "npm i".
 - After the npm install, enter this command:
-"npm start
-- After running the application you will need to open the application in your browser at localhost:3000
+"npm run develop"
+
  
 
 [Back to top](#)
