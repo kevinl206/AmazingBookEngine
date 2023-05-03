@@ -1,3 +1,4 @@
+import { gql } from "@apollo/client";
 // imported the gql
 import gql from "graphql-tag";
 
