@@ -1,4 +1,4 @@
-const { AuthenticationError } = require("apollo-server-express");
+const {GraphQLerror} = require("graphql");
 const { User } = require("../models");
 const { signToken } = require("../utils/auth");
 
